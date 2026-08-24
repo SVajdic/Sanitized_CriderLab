@@ -6,9 +6,6 @@ The following flow charts show the whole process of data analysis. I will descri
 
 ```mermaid
 
----
-title: DANCE Analysis
----
 flowchart
 
     subgraph main_loop[DANCE Single Run Processing Loop - LANL Code]
