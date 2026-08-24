@@ -5,6 +5,9 @@
 The following flow charts show the whole process of data analysis. I will describe features that I included in each portion
 
 ```mermaid
+---
+title: DANCE Analysis
+---
 
 flowchart
 
